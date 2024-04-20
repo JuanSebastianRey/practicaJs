@@ -1,4 +1,4 @@
-## Repite
-Escribe un programa que le pida al usuario ingresar una frase y la imprima en la consola.
+## Saluda
+Escribe un programa que le pregunte al usuario su nombre e imprima "Hola " seguido del nombre y un signo de exclamación.
 
-Recuerda que para pedirle al usuario que escriba una frase debes utilizar el método prompt() y para escribir en la consola debes utilizar el método console.log().
+Por ejemplo, si el usuario ingresa "Pedro" el programa debe imprimir en la consola "Hola Pedro!".
