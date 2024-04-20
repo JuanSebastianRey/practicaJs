@@ -1,13 +1,12 @@
 import prompt from "prompt-sync";
-import bmi from "../js/module/bmi.js";
+import diez from "../js/module/mayor10.js";
 
 let input = prompt()
 let opc = undefined;
 
 do{
-    let nm =Number(input("Ingrese su peso: "));
-    let nm2 =Number(input("Ingrese su altura: "));
-    console.log(bmi(nm, nm2));            
-    console.log(`Desea ingresar datos diferentes? 1. Sí 0. No`);
+    let nm =Number(input("Ingrese el numero: "));
+    console.log(diez(nm));            
+    console.log(`Desea ingresar un numero diferente? 1. Sí 0. No`);
     opc = Number(input());
 }while(opc);

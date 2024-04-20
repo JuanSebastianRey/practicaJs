@@ -1,11 +1,6 @@
-## Indice de Masa Corporal
-El índice de masa corporal (IMC), o BMI por sus siglas en inglés, es un valor que determina la cantidad de grasa de una persona.
+## Mayor que Diez
+Escribe un programa que le pida un número al usuario e imprima en la consola si el número es mayor o menor/igual a 10.
 
-El BMI se calcula con la siguiente formula:
+Si es mayor debe imprimir "El número es mayor a 10".
 
-peso / altura^2
-
-Escribe un programa que le pida al usuario su peso y su altura para calcular su BMI e imprima la frase "Tu BMI es X".
-
-Por ejemplo, si el usuario ingresa 65 de peso y 1.8 de altura el programa debe imprimir en la consola la frase "Tu BMI es 20.061728395061728".
-
+Si es menor debe imprimir "El número es menor o igual a 10".
