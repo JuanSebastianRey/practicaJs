@@ -1,6 +1,2 @@
-## Mayor que Diez
-Escribe un programa que le pida un número al usuario e imprima en la consola si el número es mayor o menor/igual a 10.
-
-Si es mayor debe imprimir "El número es mayor a 10".
-
-Si es menor debe imprimir "El número es menor o igual a 10".
+## Adivina el Número
+Escribe un programa que piense un número de forma aleatoria del 1 al 10 y le pida al usuario que lo trate de adivinar. Si el número es correcto debe imprimir en la consola "Felicitaciones, ese era!", de lo contrario debe imprimir "Lo siento, intenta nuevamente!"
